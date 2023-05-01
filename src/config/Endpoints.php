@@ -13,11 +13,11 @@ abstract class Endpoints
     /**
      * subdomains
      */
-    public const catalog="mpop-sit";
-    public const listing="listing-external-sit";
-    public const order="oms-external-sit";
-    public const claim="oms-external-sit";
-    public const merchant="oms-stub-external-sit";
+    public const catalog="mpop";
+    public const listing="listing-external";
+    public const order="oms-external";
+    public const claim="oms-external";
+    public const merchant="oms-stub-external";
     public const finance="mpfinance-external";
 
   
